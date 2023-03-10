@@ -1,4 +1,4 @@
-# Picture serch 
+# Picture search 
 
 # DEMO
 
