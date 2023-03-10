@@ -1,16 +1,40 @@
-# wiget_sample
+# Picture search 
 
-A new Flutter project.
+# DEMO
 
-## Getting Started
+https://user-images.githubusercontent.com/74645968/224281015-ad797281-ff2e-4a82-ab7b-4d4359228163.mp4
 
-This project is a starting point for a Flutter application.
+# Features
+* Pixabey APIを使用
+* フリー画像検索
+* 画像を保存可能
 
-A few resources to get you started if this is your first Flutter project:
+# Requirement
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Mac OS
+* Android Studio Electric Eel | 2022.1.1 Patch 1
+* Firebase 11.23.1
+* Flutter 3.7.6
+* Dart 2.19.3
+* DevTools 2.20.1
+* pod 1.12.0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# Installation
+
+```bash
+brew install cocoapods
+pod setup
+```
+
+# Usage
+
+```bash
+git clone https://github.com/takuowake/ivent-reception-app.git
+flutter run -d chrome
+```
+
+# Author
+
+* Takuo Wake
+* E-mail:takuowake@gmail.com
